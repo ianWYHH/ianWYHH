@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![ianWYHH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianWYHH）
 Hi, I’m @Ian（王远）-Hunter
 
 👀 I’m focusing on
