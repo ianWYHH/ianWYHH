@@ -4,7 +4,7 @@
 **ianWYHH/ianWYHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianWYHH）
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ianWYHH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianWYHH）
+
 Hi, I’m @Ian（王远）-Hunter
 
 👀 I’m focusing on
