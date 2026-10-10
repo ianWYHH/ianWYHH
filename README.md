@@ -1,34 +1,41 @@
-## Hi there 👋
+## Hi, I'm Ian Wang 👋
 
-<!--
-**ianWYHH/ianWYHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI and robotics enthusiast focusing on the emerging field of **Embodied Intelligence**.
 
-Here are some ideas to get you started:
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianWYHH）
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current work sits at the intersection of **robotics, artificial intelligence, and talent ecosystems** — exploring how cutting-edge technologies, research communities, and engineering teams come together to build the future of intelligent machines.
 
-Hi, I’m @Ian（王远）-Hunter
+## 🔭 What I focus on
 
-👀 I’m focusing on
+- 🤖 Embodied AI & General-purpose Robotics
+- 🧠 Vision-Language-Action (VLA) Models
+- 🌍 World Models & Robot Learning
+- 🦾 Humanoid Robots, Manipulation & Locomotion
+- 📚 Tracking researchers, open-source projects, papers and emerging companies in robotics
 
-2023.06-至今： AI人工智能:LLM：预训练、SFT、RLHF「RW」、Alignment「DPO/PPO」、NLP/NLP大模、多模态大模型等； AIGC & 应用算法：Stable diffsion/VAE/Mid jourley/GAN、搜推广、数据挖掘 AI infra：AI编译、调度引擎、分布式训练（稠密模型 & 稀疏模型）、高性能计算、推理引擎；机器学习平台/深度学习平台、AI工程
+## 🌱 My mission
 
-区域: 北京/上海/深圳//杭州/美国/新加坡
+I believe the next generation of AI will move beyond screens and into the physical world.
 
--- AI：LLM：Pre-train、SFT、RLHF、Alignment、NLP、MultiModal Model、Reinforcement Learning、Transformer、T5、Llama、ChatGLM、Baichuan、Qwen AIGC：Stable diffusion/Mid jourley/GAN/VAE、Recommend/Search/Ads Algorithm AI infra：AI Compiler, Scheduling Engine, Distributed Training (Dense Models & Sparse Models),HPC， Inference Engine; DL/ML plantform, AI Engineering
+My goal is to understand and connect the people, technologies, and organizations that are shaping this transition — from academic research to real-world robot deployment.
 
--- Data：Lakehouse/Data lake/EMR/Data engineer/Hadoop/Spark/Flink/OLAP【Apache Doris、Select DB、Doris DB/StarRocks、clickhouse、impala、presto analytic DB、hologres、impala、kudu、presto】& HTAP【TiDB、PolarDB、Oceanbase、GuassDB...】
+## 📝 What you may find here
 
--- infra：Lakehouse/Database kernel | storage（Block storage、OSS、HDFS、Ceph、KV）| ES、search | recommend | ads engine Level: Director/ Mid Leader/ Developer to Senior Manager Locations: Beijing, Shenzhen, Hangzhou, Shanghai, USA, Singapore ... 🌱 I’m currently learning how to use Github to find my candidates efficiently...
+- Research notes on embodied AI
+- Robotics ecosystem maps
+- Interesting papers and projects
+- Open-source discoveries
+- Technical observations from the robotics industry
 
-💞️ I’m looking for collaborate on Candidates who are looking for new openings...
+## 🤝 Let's connect
 
-📫 How to reach me：WeChat：w252443575...
+I enjoy conversations with researchers, engineers, entrepreneurs, and anyone passionate about building intelligent machines.
+
+Feel free to reach out if you are exploring:
+- Embodied AI
+- Robotics startups
+- Robot learning
+- AI research collaboration
+
+---
+
+*"Every digital footprint tells a story."*
